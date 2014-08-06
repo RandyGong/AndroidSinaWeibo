@@ -8,11 +8,11 @@ import android.database.sqlite.SQLiteDatabase.CursorFactory;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-public class SqliteHelper extends SQLiteOpenHelper {
+public class SQLiteHelper extends SQLiteOpenHelper {
 	// 用来保存 UserID、Access Token、Access Secret 的表名
 	public static final String TB_NAME = "users";
 
-	public SqliteHelper(Context context, String name, CursorFactory factory,
+	public SQLiteHelper(Context context, String name, CursorFactory factory,
 			int version) {
 		super(context, name, factory, version);
 	}
