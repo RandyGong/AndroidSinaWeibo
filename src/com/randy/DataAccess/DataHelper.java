@@ -8,7 +8,8 @@ import java.util.List;
 
 
 
-import com.randy.model.UserInfo;
+
+import com.sina.model.UserInfo;
 
 import android.content.ContentValues;
 import android.content.Context;

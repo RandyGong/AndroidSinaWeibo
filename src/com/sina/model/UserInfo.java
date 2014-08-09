@@ -1,6 +1,4 @@
-package com.randy.model;
-
-
+package com.sina.model;
 
 import android.graphics.drawable.Drawable;
 

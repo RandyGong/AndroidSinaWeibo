@@ -1,3 +1,8 @@
 eclipse.preferences.version=1
-encoding//src/com/randy/DataAccess/SqliteHelper.java=UTF-8
-encoding//src/com/randy/model/DataHelper.java=UTF-8
+encoding//src/com/example/randysinaweibo/HomeActivity.java=UTF-8
+encoding//src/com/example/randysinaweibo/LoginActivity.java=UTF-8
+encoding//src/com/example/randysinaweibo/MainActivity.java=UTF-8
+encoding//src/com/example/randysinaweibo/ViewActivity.java=UTF-8
+encoding//src/com/randy/DataAccess/DataHelper.java=UTF-8
+encoding//src/com/randy/DataAccess/SQLiteHelper.java=UTF-8
+encoding//src/com/sina/oauth/OAuth.java=UTF-8

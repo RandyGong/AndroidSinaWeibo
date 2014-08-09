@@ -1,6 +1,7 @@
 package com.randy.DataAccess;
 
-import com.randy.model.UserInfo;
+
+import com.sina.model.UserInfo;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
